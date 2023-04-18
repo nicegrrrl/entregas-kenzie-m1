@@ -4,4 +4,4 @@
 
 <sub>:date: 2023, abril e maio</sub>
 
-:star:
+:white_small_square: S1E1 :sparkles: Página de Perfil
