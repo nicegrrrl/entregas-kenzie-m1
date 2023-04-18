@@ -1,2 +1,7 @@
-# entregas-kenzie-m1
-Entregas do módulo 1 (Kenzie Academy Brasil)
+# Entregas Módulo 1
+
+#### Kenzie Academy Brasil
+
+<sub>:date: 2023, abril e maio</sub>
+
+:star:
