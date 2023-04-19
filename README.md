@@ -4,7 +4,7 @@
 
 <sub>:date: 2023, abril e maio</sub>
 
-![Computer](computer.png)
+![estrela](gold-star.png)
 
 #### sprint 1
 :white_small_square: S1E1 :sparkles: [Página de Perfil](https://github.com/nicegrrrl/pagina_perfil)
@@ -27,4 +27,4 @@
 
 :white_small_square: S4E1 :sparkles: [Refatoração do Projeto TAF]()
 
-![Hello world!](./helloworld.gif)
+![Computer](computer.png)
