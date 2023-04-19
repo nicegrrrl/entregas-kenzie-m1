@@ -4,14 +4,14 @@
 
 <sub>:date: 2023, abril e maio</sub>
 
-![estrelas](stars.png)
+![estrelas](gold-star.png)
 
 #### sprint 1
 :white_small_square: S1E1 :sparkles: [Página de Perfil](https://github.com/nicegrrrl/pagina_perfil)
 
 :white_small_square: S1E2 :sparkles: [Blog Kenzie]()
 
-![estrelas](stars.png)
+![carinha feliz](happiness.png)
 
 #### sprint 2
 
@@ -19,7 +19,7 @@
 
 :white_small_square: S2E2 :sparkles: [CSS: Desenvolvendo Interface KenzieFlix]()
 
-![estrelas](stars.png)
+![carinha feliz](happiness.png)
 
 #### sprint 3
 
@@ -27,7 +27,7 @@
 
 :white_small_square: S3E2 :sparkles: [TAF - Teste de Aptidão Física]()
 
-![estrelas](stars.png)
+![carinha feliz](happiness.png)
 
 #### sprint 4
 
