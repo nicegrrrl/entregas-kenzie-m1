@@ -4,9 +4,9 @@
 
 <sub>:date: 2023, abril e maio</sub>
 
-![estrelas](gold-star.png)
 
-#### sprint 1
+![estrelas](1.png)
+#### sprint 
 :white_small_square: S1E1 :sparkles: [Página de Perfil](https://github.com/nicegrrrl/pagina_perfil)
 
 :white_small_square: S1E2 :sparkles: [Blog Kenzie]()
