@@ -4,6 +4,8 @@
 
 <sub>:date: 2023, abril e maio</sub>
 
+![Computer](computer.png)
+
 #### sprint 1
 :white_small_square: S1E1 :sparkles: [Página de Perfil](https://github.com/nicegrrrl/pagina_perfil)
 
