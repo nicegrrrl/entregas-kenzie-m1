@@ -30,10 +30,11 @@
 
 :white_small_square: S3E2 :sparkles: [TAF - Teste de Aptidão Física]()
 
-![carinha feliz](happiness.png)
-
-#### sprint 4
+#
+#### sprint
+![número 4](number-4.png)
 
 :white_small_square: S4E1 :sparkles: [Refatoração do Projeto TAF]()
 
+#
 ![Computer](computer.png)
